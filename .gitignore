@@ -1,0 +1,14 @@
+# Pastas e dados gerados pelos scripts
+htmls/
+*.html
+*.csv
+urls.txt
+
+# Arquivos do Python e do WebDriver
+__pycache__/
+*.pyc
+geckodriver.log
+
+# Ambientes virtuais (se usar)
+venv/
+.env
